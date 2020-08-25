@@ -3,3 +3,38 @@
 @tailwind components;
 /* purgecss end ignore */
 @tailwind utilities;
+
+/* CSS HEX */
+/* --light-cyan: #d6fff6ff;
+--russian-violet: #231651ff;
+--medium-turquoise: #4dccbdff;
+--spanish-blue: #2374abff;
+--light-coral: #ff8484ff; */
+
+.light-cyan {
+  /* background-color: #d6fff6ff; */
+  color: #d6fff6ff;
+}
+
+.russian-violet {
+  background-color: #231651ff;
+}
+
+.medium-turquoise {
+  background-color: #4dccbdff;
+}
+
+.spanish-blue {
+  background-color: #2374abff;
+}
+
+.light-coral {
+  background-color: #ff8484ff;
+}
+
+/* SCSS HEX */
+/* $light-cyan: #d6fff6ff;
+$russian-violet: #231651ff;
+$medium-turquoise: #4dccbdff;
+$spanish-blue: #2374abff;
+$light-coral: #ff8484ff; */
